@@ -37,7 +37,7 @@ I am learning ***something***.
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
-[The Best Football Team in the World](https://www.trabzonspor.org.tr/tr)
+[Trabzonspor](https://www.trabzonspor.org.tr/tr)
 
 **Question 7** With Markdown add a cat picture.
 
